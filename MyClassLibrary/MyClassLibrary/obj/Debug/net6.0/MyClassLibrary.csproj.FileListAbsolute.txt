@@ -1,0 +1,12 @@
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.deps.json
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.dll
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.pdb
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.AssemblyReference.cache
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfoInputs.cache
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfo.cs
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.dll
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\refint\MyClassLibrary.dll
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.pdb
+X:\курсы\hw8\MyClassLibrary\MyClassLibrary\obj\Debug\net6.0\ref\MyClassLibrary.dll

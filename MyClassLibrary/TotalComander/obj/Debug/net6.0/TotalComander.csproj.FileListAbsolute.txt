@@ -1,0 +1,15 @@
+X:\курсы\hw8\MyClassLibrary\TotalComander\bin\Debug\net6.0\TotalComander.exe
+X:\курсы\hw8\MyClassLibrary\TotalComander\bin\Debug\net6.0\TotalComander.deps.json
+X:\курсы\hw8\MyClassLibrary\TotalComander\bin\Debug\net6.0\TotalComander.runtimeconfig.json
+X:\курсы\hw8\MyClassLibrary\TotalComander\bin\Debug\net6.0\TotalComander.dll
+X:\курсы\hw8\MyClassLibrary\TotalComander\bin\Debug\net6.0\TotalComander.pdb
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.csproj.AssemblyReference.cache
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.GeneratedMSBuildEditorConfig.editorconfig
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.AssemblyInfoInputs.cache
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.AssemblyInfo.cs
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.csproj.CoreCompileInputs.cache
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.dll
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\refint\TotalComander.dll
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.pdb
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\TotalComander.genruntimeconfig.cache
+X:\курсы\hw8\MyClassLibrary\TotalComander\obj\Debug\net6.0\ref\TotalComander.dll
